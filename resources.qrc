@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Textures/Mesh.png</file>
+        <file>Shaders/DESKTOP_3_3/adsphong.frag</file>
+        <file>Shaders/DESKTOP_3_3/adsphong.vert</file>
+        <file>Textures/Sand.png</file>
+        <file>Textures/Bitmap.bmp</file>
+        <file>Blocks/Blocks.config</file>
+        <file>Blocks/Pack.config</file>
+        <file>Blocks/Pack.png</file>
+        <file>Textures/Nightsky_down.bmp</file>
+        <file>Textures/Nightsky_east.bmp</file>
+        <file>Textures/Nightsky_north.bmp</file>
+        <file>Textures/Nightsky_south.bmp</file>
+        <file>Textures/Nightsky_up.bmp</file>
+        <file>Textures/Nightsky_west.bmp</file>
+        <file>Shaders/DESKTOP_3_3/sky_box.frag</file>
+        <file>Shaders/DESKTOP_3_3/sky_box.vert</file>
+        <file>Shaders/ES_2_0/sky_box.frag</file>
+        <file>Shaders/ES_2_0/sky_box.vert</file>
+        <file>Shaders/ES_2_0/adsphong.frag</file>
+        <file>Shaders/ES_2_0/adsphong.vert</file>
+    </qresource>
+</RCC>
